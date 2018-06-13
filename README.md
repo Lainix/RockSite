@@ -9,8 +9,8 @@
 
 ##### Herramientas utilizadas:
 
-* CSS3
 * HTML5
+* CSS3
 * Diseño Web Responsive
 
-![imagen Mi página](assets/images/desktop.png)
+![imagen Mi página](assets/images/rock.png)
